@@ -14,5 +14,4 @@ HI I am UpXuu. A developer,student,simple people from HeiBei,China
 
 ---
 [![](https://komarev.com/ghpvc/?username=IMUPXUU&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://stats.upxuu.com/p/TPFhW0hJF)
